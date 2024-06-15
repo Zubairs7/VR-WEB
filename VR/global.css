@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-itim: Itim;
+    --font-hahmlet: Hahmlet;
+    --font-josefin-sans: "Josefin Sans";
+  
+    /* Colors */
+    --color-white: #fff;
+  }
+  
